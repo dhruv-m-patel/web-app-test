@@ -10,7 +10,7 @@
     "author": "Dhruv Patel <dhruv.codelab@gmail.com>",
     "license": "ISC",
     "dependencies": {
-        "@dhruv-m-patel/web-app": "^1.1.0",
+        "@dhruv-m-patel/web-app": "^1.2.0",
         "express": "^4.18.1"
     }
 }
